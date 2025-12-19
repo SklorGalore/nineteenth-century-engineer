@@ -3,7 +3,7 @@
   "displayName": "Nineteenth Century Engineer",
   "description": "Wonderful orange colorscheme",
   "publisher": "SkylarCoelho",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.107.0"
   },
