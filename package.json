@@ -1,0 +1,21 @@
+{
+  "name": "nineteenth-century-engineer",
+  "displayName": "Nineteenth Century Engineer",
+  "description": "Wonderful orange colorscheme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "19thCentury",
+        "uiTheme": "vs-dark",
+        "path": "./themes/19thCentury-color-theme.json"
+      }
+    ]
+  }
+}
